@@ -11,3 +11,17 @@ La página web utiliza Bootstrap para implementar un sistema de columnas que res
 - **Sistema de Rejilla**: La estructura se basa en la rejilla de Bootstrap, utilizando clases como `col-xl`, `col-lg`, etc., para definir el comportamiento de las columnas en diferentes tamaños de pantalla.
 - **Diseño Responsivo**: Los artículos se reorganizan y redimensionan automáticamente según el tamaño de la pantalla del dispositivo.
 - **Compatibilidad con Dispositivos Móviles**: Funciona sin problemas en dispositivos móviles, gracias al enfoque mobile-first de Bootstrap.
+
+## Cómo Usar el Proyecto
+
+1. **Descarga o clona** este repositorio en tu máquina local.
+2. Abre el archivo `index.html` en tu navegador para ver el diseño de la página.
+3. Observa cómo se adaptan las columnas a diferentes tamaños de pantalla.
+
+## Estructura del Proyecto
+
+- `index.html`: Contiene la estructura principal del HTML con la implementación del sistema de rejilla de Bootstrap.
+- `css/bootstrap.min.css`: Archivo de estilos de Bootstrap.
+- `js/bootstrap.min.js`: Archivo JavaScript de Bootstrap para las funcionalidades adicionales.
+
+
