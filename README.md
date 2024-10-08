@@ -24,4 +24,13 @@ La página web utiliza Bootstrap para implementar un sistema de columnas que res
 - `css/bootstrap.min.css`: Archivo de estilos de Bootstrap.
 - `js/bootstrap.min.js`: Archivo JavaScript de Bootstrap para las funcionalidades adicionales.
 
+## Dependencias
 
+Este proyecto utiliza Bootstrap para la creación del sistema de columnas y su diseño responsivo. Asegúrate de incluir los archivos de Bootstrap correctamente en tu proyecto:
+
+- **Bootstrap CSS**: `css/bootstrap.min.css`
+- **Bootstrap JS**: `js/bootstrap.min.js`
+
+## Autor
+
+Debora Alejandra Garcia Cruz
